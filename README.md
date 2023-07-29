@@ -1,1 +1,4 @@
-# background_generator
+# Background Generator
+
+![App Screenshot](background_generator.png)
+
